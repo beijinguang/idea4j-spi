@@ -1,0 +1,2 @@
+com.idea4j.spi.demo.impl.Log4j
+com.idea4j.spi.demo.impl.Logback
