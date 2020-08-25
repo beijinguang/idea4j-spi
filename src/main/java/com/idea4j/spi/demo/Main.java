@@ -9,7 +9,7 @@ public class Main {
         Iterator<Log> iterator = serviceLoader.iterator();
         while (iterator.hasNext()) {
             Log next = iterator.next();
-            next.log("dd");
+            next.log("com.idea4j.spi.demo.Log");
         }
     }
 }
